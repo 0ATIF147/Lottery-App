@@ -1,4 +1,4 @@
-# kkk
+# Lottery App
 
 A new Flutter project.
 
